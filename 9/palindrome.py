@@ -8,4 +8,3 @@ class Solution:
         if arr == arr_rev:
             return True
         return False
-    
